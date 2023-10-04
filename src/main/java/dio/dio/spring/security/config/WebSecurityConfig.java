@@ -1,4 +1,4 @@
-package dio.dio.spring.security;
+package dio.dio.spring.security.config;
 
 import dio.dio.spring.security.config.SecurityDatabaseService;
 import org.springframework.beans.factory.annotation.Autowired;
